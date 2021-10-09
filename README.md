@@ -4,7 +4,7 @@
 
 This repository contains the assignments for the Academic Courses "Operating Systems" taught in the Fall of 2018-2019 in Aristotle University of Thessaloniki - Electrical and Computer Engineering.
 
-The purpose of this project is the better understanding of **Linux shell** via the implementation a command line interpreter or **shell interpreter** and a **Makefile** in **C programming language**. 
+The purpose of this project is the better understanding of **Linux shell** via the implementation of a command line interpreter or **shell interpreter** and a **Makefile** in **C programming language**. 
 
 
 
